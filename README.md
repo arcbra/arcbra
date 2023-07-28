@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a code student
+🌱 Learning Nix language
 
 
 # 💻 Tech Stack:
